@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadyab93
 - 👀 I’m interested in ...web development and logo designs
-- 🌱 I’m currently learning ...logo desing,react,python
+- 🌱 I’m currently learning ...logo design,video editing,voice recording,react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
