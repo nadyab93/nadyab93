@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadyab93
-- 👀 I’m interested in ... frontend development and logo designs
-- 🌱 I’m currently learning ...typescript and python
+- 👀 I’m interested in ... frontend development and it support
+- 🌱 I’m currently learning ...react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...nbharrat@outlook.com
 
