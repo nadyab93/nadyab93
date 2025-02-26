@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadyab93
-- 👀 I’m interested in ... frontend development and it support
-- 🌱 I’m currently learning ...react
+- 👀 I’m interested in ... frontend development,it support,and data analyst
+- 🌱 I’m currently learning ...react,python,sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...nbharrat@outlook.com
 
