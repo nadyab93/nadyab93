@@ -1,17 +1,17 @@
-- # 👋 Hi, I’m Nadya Bharrat (@nadyab93)
+- ### 👋 Hi, I’m Nadya Bharrat (@nadyab93)
 
 🇬🇾 Guyanese-American | Based in Queens, NY  
 
-- ## 👀 Interests
+- ### 👀 Interests
 Frontend development, IT support, data analysis, and building user-centered solutions.  
 
-- ## 🌱 Currently Learning
+- ### 🌱 Currently Learning
 React, Python, SQL, and improving web development and data analytics skills.  
 
-- ## 💻 Projects & Portfolio
+- ### 💻 Projects & Portfolio
 Check out my [portfolio website](https://my-portfolio-delta-two-76.vercel.app/) for examples of my projects, certifications, and technical skills.  
 
-- ## 💞️ Collaboration
+- ### 💞️ Collaboration
 I’m open to collaborating on projects that combine tech, data, and design to create meaningful solutions.  
 
 - ## 📫 How to Reach Me
