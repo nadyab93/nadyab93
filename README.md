@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Nadya Bharrat (@nadyab93)
+**👋 Hi, I’m Nadya Bharrat (@nadyab93)** 
 
-🇬🇾 Guyanese-American | Based in Queens, NY  
+🇬🇾🇺🇸 Guyanese-American | 🗽 Born in Queens, NY  
 
 **👀 Interests**  
 Technology, healthcare, and social services. I enjoy using tech and data to improve processes and help people.  
