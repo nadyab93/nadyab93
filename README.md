@@ -1,23 +1,22 @@
-- ### 👋 Hi, I’m Nadya Bharrat (@nadyab93)
+# 👋 Hi, I’m Nadya Bharrat (@nadyab93)
 
 🇬🇾 Guyanese-American | Based in Queens, NY  
 
-- ### 👀 Interests
-Frontend development, IT support, data analysis, and building user-centered solutions.  
+**👀 Interests**  
+Technology, healthcare, and social services. I enjoy using tech and data to improve processes and help people.  
 
-- ### 🌱 Currently Learning
-React, Python, SQL, and improving web development and data analytics skills.  
+**🌱 Currently Learning**  
+React, Python, SQL, front-end development, and IT support.  
 
-- ### 💻 Projects & Portfolio
-Check out my [portfolio website](https://my-portfolio-delta-two-76.vercel.app/) for examples of my projects, certifications, and technical skills.  
+**💻 Projects & Portfolio**  
+Check out my [portfolio website](https://my-portfolio-delta-two-76.vercel.app/) to see my projects, skills, and certifications.  
 
-- ### 💞️ Collaboration
-I’m open to collaborating on projects that combine tech, data, and design to create meaningful solutions.  
+**💞️ Collaboration**  
+Open to working on projects that use technology and data to make a positive impact.  
 
-- ## 📫 How to Reach Me
+**📫 How to Reach Me**  
 Email: nbharrat@outlook.com  
 GitHub: [github.com/nadyab93](https://github.com/nadyab93)  
-
 
 <!---
 nadyab93/nadyab93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
