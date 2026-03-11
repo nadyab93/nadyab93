@@ -4,7 +4,7 @@
 
 ---
 
-## 💻 Python & Security Projects
+## 💻 Security & Automation Projects
 
 ### 🛡️ [Security Log Analysis Dashboard](https://github.com/nadyab93/SecurityLogMonitor)
 * Spotting brute-force attacks and visualizing threats in Python
