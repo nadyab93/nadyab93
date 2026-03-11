@@ -18,9 +18,6 @@
 ### 📂 [Automated Backup & Disk Space Monitor](https://github.com/nadyab93/AutomatedBackup)
 * Creating a "set it and forget it" backup tool with low-disk alerts
 
-### 🔑 [Password Strength Checker](https://github.com/nadyab93/PasswordStrengthChecker)
-* Testing password logic and strength requirements in Python
-
 ---
 
 ## 📬 How to Reach Me
