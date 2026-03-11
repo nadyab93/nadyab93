@@ -6,7 +6,7 @@
 
 ## 💻 Security & Automation Projects
 
-### 🛡️ [Security Log Analysis Dashboard](https://github.com/nadyab93/SecurityLogMonitor)
+### 🛡️ [Security Log Analysis Dashboard](https://github.com/nadyab93/Security_Dashboard)
 * Spotting brute-force attacks and visualizing threats in Python
 
 ### 🔐 [Full Stack Secure Login System](https://github.com/nadyab93/secure-login-system)
